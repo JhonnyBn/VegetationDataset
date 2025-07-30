@@ -1,0 +1,9 @@
+path: .  # dataset root dir
+train: train  # train images (relative to 'path')
+val: valid  # val images (relative to 'path')
+test: test  # test images (relative to 'path')
+
+# Classes
+names:
+  0: arvoreAbaixoFio
+  1: arvoreTocandoFio
